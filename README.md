@@ -3,4 +3,5 @@ FramePerfect — офлайн-видеоредактор для Windows с ин�
 Скачать программу можно в Releases
 
 Discord: https://discord.gg/V3NEHmxWY
+
 Telegram: https://t.me/FramePerfectTG
