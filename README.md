@@ -1,3 +1,6 @@
 # FramePerfect
 FramePerfect — офлайн-видеоредактор для Windows с интерфейсом CapCut, анимацией Alight Motion и эффектами After Effects. Многодорожечный таймлайн, редактор кривых, маски, сборные клипы, 3D-фигуры, хромакей и цветокоррекция как в DaVinci Resolve. Есть AI-удаление фона, нарезка по битам, темы (включая Frutiger Aero) и экспорт в `.mp4`.
 Скачать программу можно в Releases
+
+Discord: https://discord.gg/V3NEHmxWY
+Telegram: https://t.me/FramePerfectTG
